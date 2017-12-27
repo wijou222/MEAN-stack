@@ -1,1 +1,1 @@
-# MEAN-stack-with-ANGULAR
+# MEAN-stack
