@@ -1,0 +1,30 @@
+{
+  "name": "means",
+  "version": "1.0.0",
+  "description": "mean stack",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wijou222/MEAN-stack.git"
+  },
+  "keywords": [
+    "mean",
+    "stack",
+    "angular",
+    "2",
+    "applicatiob"
+  ],
+  "author": "wejden",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wijou222/MEAN-stack/issues"
+  },
+  "homepage": "https://github.com/wijou222/MEAN-stack#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^4.13.8"
+  }
+}
